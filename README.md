@@ -1,6 +1,6 @@
 # Utilisation of phased diploid genomes to study the grapevine terpene synthase (*VviTPS*) family
 
-Thanks for scanning the QR code! Here you will find some more details on our VviTPS work.
+Thanks for scanning the QR code! Here you will find some more details on our *VviTPS* work.
 
 ## Publications
 We have a series of publications on our work. The poster you just viewed covers the paper
