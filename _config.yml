@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
-title: [ISGPB2021 Poster]
-description: [Thanks for viewing our poster]
-show_downloads: [false]
+title: ISGPB2021 Poster
+logo:
+show_downloads: false
